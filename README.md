@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about MINI-APP for weixin;Python;FLASK FRAME;DEEPLEARNING
 - 📫 How to reach me: Here,zhuxinzhou999@zju.edu.cn;
 
-![](https://github-readme-stats.vercel.app/api?username=mayandev)
+![](https://github-readme-stats.vercel.app/api?username=zhuxinzhou)
